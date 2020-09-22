@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279ac510-9e46-4bde-95f7-407d0f970def" name="Default Changelist" comment="Update file.txt" />
+    <list default="true" id="279ac510-9e46-4bde-95f7-407d0f970def" name="Default Changelist" comment="branch_delete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,9 +45,16 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,7 +72,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600776513675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new_branch_file_mod">
+      <created>1600777547029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600777547029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="branch_delete">
+      <created>1600778713622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600778713622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="branch_delete">
+      <created>1600779301760</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600779301760</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,24 +106,67 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/dev1" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add_pycharm_connect" />
     <MESSAGE value="Update file.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update file.txt" />
+    <MESSAGE value="new_branch_file_mod" />
+    <MESSAGE value="branch_delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="branch_delete" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="418" y="215" width="521" height="333" key="#Notifications" timestamp="1600779329446">
+      <screen x="0" y="24" width="1366" height="720" />
+    </state>
+    <state x="418" y="215" width="521" height="333" key="#Notifications/0.24.1366.720@0.24.1366.720" timestamp="1600779329446" />
+    <state x="99" y="124" width="1168" height="521" key="DiffContextDialog" timestamp="1600778872249">
+      <screen x="0" y="24" width="1366" height="720" />
+    </state>
+    <state x="99" y="124" width="1168" height="521" key="DiffContextDialog/0.24.1366.720@0.24.1366.720" timestamp="1600778872249" />
     <state x="466" y="142" width="426" height="478" key="FileChooserDialogImpl" timestamp="1600777244918">
       <screen x="0" y="24" width="1366" height="720" />
     </state>
     <state x="466" y="142" width="426" height="478" key="FileChooserDialogImpl/0.24.1366.720@0.24.1366.720" timestamp="1600777244918" />
-    <state x="475" y="300" width="408" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600776842148">
+    <state x="99" y="124" width="1168" height="521" key="ShowDiffWithBranchDialog" timestamp="1600779854792">
       <screen x="0" y="24" width="1366" height="720" />
     </state>
-    <state x="475" y="300" width="408" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1366.720@0.24.1366.720" timestamp="1600776842148" />
+    <state x="99" y="124" width="1168" height="521" key="ShowDiffWithBranchDialog/0.24.1366.720@0.24.1366.720" timestamp="1600779854792" />
+    <state x="278" y="120" width="802" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600779308384">
+      <screen x="0" y="24" width="1366" height="720" />
+    </state>
+    <state x="278" y="120" width="802" height="522" key="Vcs.Push.Dialog.v2/0.24.1366.720@0.24.1366.720" timestamp="1600779308384" />
+    <state x="475" y="300" width="416" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600778985900">
+      <screen x="0" y="24" width="1366" height="720" />
+    </state>
+    <state x="475" y="300" width="416" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1366.720@0.24.1366.720" timestamp="1600778985900" />
     <state x="453" y="286" width="451" height="189" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600776396776">
       <screen x="0" y="24" width="1366" height="720" />
     </state>
     <state x="453" y="286" width="451" height="189" key="git4idea.remote.GitConfigureRemotesDialog/0.24.1366.720@0.24.1366.720" timestamp="1600776396776" />
+    <state x="380" y="285" width="598" height="192" key="git4idea.ui.GitStashDialog" timestamp="1600779267566">
+      <screen x="0" y="24" width="1366" height="720" />
+    </state>
+    <state x="380" y="285" width="598" height="192" key="git4idea.ui.GitStashDialog/0.24.1366.720@0.24.1366.720" timestamp="1600779267566" />
   </component>
 </project>
