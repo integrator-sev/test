@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279ac510-9e46-4bde-95f7-407d0f970def" name="Default Changelist" comment="new_branch_file_mod">
+    <list default="true" id="279ac510-9e46-4bde-95f7-407d0f970def" name="Default Changelist" comment="branch_delete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600777547029</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="branch_delete">
+      <created>1600778713622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600778713622</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,24 +103,33 @@
     <MESSAGE value="add_pycharm_connect" />
     <MESSAGE value="Update file.txt" />
     <MESSAGE value="new_branch_file_mod" />
-    <option name="LAST_COMMIT_MESSAGE" value="new_branch_file_mod" />
+    <MESSAGE value="branch_delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="branch_delete" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="99" y="124" width="1168" height="521" key="DiffContextDialog" timestamp="1600778872249">
+      <screen x="0" y="24" width="1366" height="720" />
+    </state>
+    <state x="99" y="124" width="1168" height="521" key="DiffContextDialog/0.24.1366.720@0.24.1366.720" timestamp="1600778872249" />
     <state x="466" y="142" width="426" height="478" key="FileChooserDialogImpl" timestamp="1600777244918">
       <screen x="0" y="24" width="1366" height="720" />
     </state>
     <state x="466" y="142" width="426" height="478" key="FileChooserDialogImpl/0.24.1366.720@0.24.1366.720" timestamp="1600777244918" />
-    <state x="278" y="120" width="802" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600777584584">
+    <state x="278" y="120" width="802" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600778881369">
       <screen x="0" y="24" width="1366" height="720" />
     </state>
-    <state x="278" y="120" width="802" height="522" key="Vcs.Push.Dialog.v2/0.24.1366.720@0.24.1366.720" timestamp="1600777584584" />
-    <state x="475" y="300" width="408" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600778569598">
+    <state x="278" y="120" width="802" height="522" key="Vcs.Push.Dialog.v2/0.24.1366.720@0.24.1366.720" timestamp="1600778881369" />
+    <state x="475" y="300" width="416" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600778985900">
       <screen x="0" y="24" width="1366" height="720" />
     </state>
-    <state x="475" y="300" width="408" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1366.720@0.24.1366.720" timestamp="1600778569598" />
+    <state x="475" y="300" width="416" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1366.720@0.24.1366.720" timestamp="1600778985900" />
     <state x="453" y="286" width="451" height="189" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600776396776">
       <screen x="0" y="24" width="1366" height="720" />
     </state>
     <state x="453" y="286" width="451" height="189" key="git4idea.remote.GitConfigureRemotesDialog/0.24.1366.720@0.24.1366.720" timestamp="1600776396776" />
+    <state x="380" y="285" width="598" height="192" key="git4idea.ui.GitStashDialog" timestamp="1600779267566">
+      <screen x="0" y="24" width="1366" height="720" />
+    </state>
+    <state x="380" y="285" width="598" height="192" key="git4idea.ui.GitStashDialog/0.24.1366.720@0.24.1366.720" timestamp="1600779267566" />
   </component>
 </project>
