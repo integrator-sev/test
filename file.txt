@@ -8,3 +8,5 @@ modify = ver.2.2
 this is branch dev1
 
 this is branch dev2
+
+merge master
